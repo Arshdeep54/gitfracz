@@ -3,7 +3,7 @@
 1. Setup for this exercise
 
    ```
-   git start cmerge-conflict
+   git start merge-conflict
    ```  
   
 3. Merge the branch
