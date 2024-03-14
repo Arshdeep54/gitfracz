@@ -2,15 +2,21 @@
 
 1. Setup for this exercise
 
-   ```git start ignore-them```  
+   ```
+   git start ignore-them
+   ```  
   
-2. create a .gitignore file
+3. create a .gitignore file
 
-   ```touch .gitignore```  
+   ```
+   touch .gitignore
+   ```  
 
-3. Edit the .gitignore file using vim
+5. Edit the .gitignore file using vim
 
-   ```vim .gitignore```
+   ```
+   vim .gitignore
+   ```
    and add
    ```
    *.exe
@@ -19,7 +25,7 @@
    libraries/
     ```
    
-4.  add the .gitignore file and commit
+7.  add the .gitignore file and commit
 
    ```
     git add .gitignore
