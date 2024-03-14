@@ -2,11 +2,15 @@
 
 1. Setup for this exercise
 
-   ```git start chase-branch```  
+   ```
+   git start chase-branch
+   ```  
   
-2. Merge the escaped branch by 
+3. Merge the escaped branch by 
 
-   ```git merge escaped```  
+   ```
+   git merge escaped
+   ```  
 
 Now ```git verify```   
 Passed! 
